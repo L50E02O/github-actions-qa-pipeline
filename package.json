@@ -2,6 +2,7 @@
   "name": "github-actions-qa-pipeline",
   "version": "1.0.0",
   "description": "Proyecto de QA automatizado con Playwright y CI/CD en GitHub Actions",
+  "license": "MIT",
   "scripts": {
     "test": "playwright test",
     "test:headed": "playwright test --headed",

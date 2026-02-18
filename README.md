@@ -70,4 +70,4 @@ El reporte HTML se genera siempre; los `test-results` solo cuando algún test fa
 
 ## Licencia
 
-MIT.
+Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo `LICENSE` para ver el texto completo.
