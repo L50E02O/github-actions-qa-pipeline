@@ -1,0 +1,16 @@
+{
+  "name": "github-actions-qa-pipeline",
+  "version": "1.0.0",
+  "description": "Proyecto de QA automatizado con Playwright y CI/CD en GitHub Actions",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0"
+  }
+}
